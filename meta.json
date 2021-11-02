@@ -3,13 +3,14 @@
 	"symbol": "MNM",
 	"web": "markhors.io",
 	"links": {
-		"github": "nabzillion",
-		"twitter": "nabzilion87"
+		"Github": "nabzillion",
+		"Twitter": "nabzilion87",
+		"Web": "http://www.markhors.io/"
 	},
 	"config": {
 		"dark": false
 	},
 	"gen": {
-		"logo": "logo.png"
+		"logo": "logo.svg"
 	}
 }
